@@ -1,4 +1,3 @@
-# abstract-landing-page
 # Abstract Help Center Clone
 
 This project is a clone of the Abstract Help Center website, built using HTML, CSS, and JavaScript. It aims to replicate the core layout of the original site, including a responsive navigation menu and category display.
